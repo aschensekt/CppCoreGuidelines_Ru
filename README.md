@@ -1,11 +1,11 @@
-[![C++ Core Guidelines](cpp_core_guidelines_logo_text.png)](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+[![Рекомендации для C++](cpp_core_guidelines_logo_text.png)](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
->"Within C++ is a smaller, simpler, safer language struggling to get out."
+>"Внутри C++ есть язык проще, безопаснее, быстрее, у которого не получается вырваться наружу"
 >-- <cite>Bjarne Stroustrup</cite>
 
-The [C++ Core Guidelines](CppCoreGuidelines.md) are a collaborative effort led by Bjarne Stroustrup, much like the C++ language itself. They are the result of many
-person-years of discussion and design across a number of organizations. Their design encourages general applicability and broad adoption but
-they can be freely copied and modified to meet your organization's needs.
+Данные [рекомендации](CppCoreGuidelines.md) -- коллективная разработка, созданная под руководством Бьерна Страуструпа так же, как и сам язык C++. Это результат многолетних трудов и обсуждений среди множества команд и организаций. Рекомендации созданы для общего применения и употребления, при этом их модификация для использования внутри своей разработки не возбраняется.
+
+Это вольный перевод, не несущий за собой цели полноценно передать настроения и задумки текста. Оригинальный проект постоянно обновляется и я, как единственный переводчик и редактор просто не в состоянии успеть за результатами трудов множества программистов и разработчиков. При этом все вопросы, пожелания и исправления к переводу активно принимаются. [Егор Aschensekt](https://github.com/aschensekt)
 
 ## Getting started
 
